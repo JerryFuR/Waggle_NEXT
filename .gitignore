@@ -20,3 +20,7 @@ dsh-desktop-next/.desktop-next/
 dsh-desktop-next/.desktop-build/
 dsh-plugin-desktop/.desktop-build/
 dsh-plugin-desktop-beta/.desktop-build/
+
+# build/push logs
+_push.log
+_vendor_push.log
